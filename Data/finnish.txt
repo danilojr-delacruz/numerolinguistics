@@ -1,3 +1,4 @@
+nolla
 yksi
 kaksi
 kolme
