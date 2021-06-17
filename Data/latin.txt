@@ -1,0 +1,100 @@
+unus
+duo
+tres
+quattuor
+quinque
+sex
+septem
+octo
+novem
+decem
+undecim
+duodecim
+tredecim
+quattuordecim
+quindecim
+sedecim
+septendecim
+duodeviginti
+undeviginti
+viginti
+viginti unus
+viginti duo
+viginti tres
+viginti quattuor
+viginti quinque
+viginti sex
+viginti septem
+duodetriginta
+undetriginta
+triginta
+triginta unus
+triginta duo
+triginta tres
+triginta quattuor
+triginta quinque
+triginta sex
+triginta septem
+duodequadraginta
+undequadraginta
+quadraginta
+quadraginta unus
+quadraginta duo
+quadraginta tres
+quadraginta quattuor
+quadraginta quinque
+quadraginta sex
+quadraginta septem
+duodequinquaginta
+undequinquaginta
+quinquaginta
+quinquaginta unus
+quinquaginta duo
+quinquaginta tres
+quinquaginta quattuor
+quinquaginta quinque
+quinquaginta sex
+quinquaginta septem
+duodesexaginta
+undesexaginta
+sexaginta
+sexaginta unus
+sexaginta duo
+sexaginta tres
+sexaginta quattuor
+sexaginta quinque
+sexaginta sex
+sexaginta septem
+duodeseptuaginta
+undeseptuaginta
+septuaginta
+septuaginta unus
+septuaginta duo
+septuaginta tres
+septuaginta quattuor
+septuaginta quinque
+septuaginta sex
+septuaginta septem
+duodeoctoginta
+undeoctoginta
+octoginta
+octoginta unus
+octoginta duo
+octoginta tres
+octoginta quattuor
+octoginta quinque
+octoginta sex
+octoginta septem
+duedenonaginta
+undenonaginta
+nonaginta
+nonaginta unus
+nonaginta duo
+nonaginta tres
+nonaginta quattuor
+nonaginta quinque
+nonaginta sex
+nonaginta septem
+duodecentum
+undecentum
+centum
