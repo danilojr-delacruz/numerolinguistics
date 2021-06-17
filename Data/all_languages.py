@@ -10,5 +10,5 @@ for language in ['Danish', 'Dutch', 'English', 'Finnish', 'French', 'German',
     list_of_nums = table[language].to_list()[1:]
 
     f = open(f'{language.lower()}.txt', 'w')
-    f.write(','.join(list_of_nums))
+    f.write('\n'.join(list_of_nums))
     f.close()
