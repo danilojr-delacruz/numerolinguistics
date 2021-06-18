@@ -1,0 +1,101 @@
+Ling
+Yi 
+Er 
+San 
+Si 
+Wu 
+Liu 
+Qi 
+Ba 
+Jiu 
+Shi 
+Shi Yi 
+Shi Er 
+Shi San 
+Shi Si 
+Shi Wu 
+Shi Liu 
+Shi Qi 
+Shi Ba 
+Shi Jiu 
+Er Shi 
+Er Shi Yi 
+Er Shi Er 
+Er Shi San 
+Er Shi Si 
+Er Shi Wu 
+Er Shi Liu 
+Er Shi Qi 
+Er Shi Ba 
+Er Shi Jiu 
+San Shi 
+San Shi Yi 
+San Shi Er 
+San Shi San 
+San Shi Si 
+San Shi Wu 
+San Shi Liu 
+San Shi Qi 
+San Shi Ba 
+San Shi Jiu 
+Si Shi 
+Si Shi Yi 
+Si Shi Er 
+Si Shi San 
+Si Shi Si 
+Si Shi Wu 
+Si Shi Liu 
+Si Shi Qi 
+Si Shi Ba 
+Si Shi Jiu 
+Wu Shi 
+Wu Shi Yi 
+Wu Shi Er 
+Wu Shi San 
+Wu Shi Si 
+Wu Shi Wu 
+Wu Shi Liu 
+Wu Shi Qi 
+Wu Shi Ba 
+Wu Shi Jiu 
+Liu Shi 
+Liu Shi Yi 
+Liu Shi Er 
+Liu Shi San 
+Liu Shi Si 
+Liu Shi Wu 
+Liu Shi Liu 
+Liu Shi Qi 
+Liu Shi Ba 
+Liu Shi Jiu 
+Qi Shi 
+Qi Shi Yi 
+Qi Shi Er 
+Qi Shi San 
+Qi Shi Si 
+Qi Shi Wu 
+Qi Shi Liu 
+Qi Shi Qi 
+Qi Shi Ba 
+Qi Shi Jiu 
+Ba Shi 
+Ba Shi Yi 
+Ba Shi Er 
+Ba Shi San 
+Ba Shi Si 
+Ba Shi Wu 
+Ba Shi Liu 
+Ba Shi Qi 
+Ba Shi Ba 
+Ba Shi Jiu 
+Jiu Shi 
+Jiu Shi Yi 
+Jiu Shi Er 
+Jiu Shi San 
+Jiu Shi Si 
+Jiu Shi Wu 
+Jiu Shi Liu 
+Jiu Shi Qi 
+Jiu Shi Ba 
+Jiu Shi Jiu 
+Yi Bai 

@@ -21,7 +21,7 @@ diciannove
 venti
 ventuno
 ventidue
-ventitré
+ventitre
 ventiquattro
 venticinque
 ventisei
@@ -31,7 +31,7 @@ ventinove
 trenta
 trentuno
 trentadue
-trentatré
+trentatre
 trentaquattro
 trentacinque
 trentasei
@@ -41,7 +41,7 @@ trentanove
 quaranta
 quarantuno
 quarantadue
-quarantatré
+quarantatre
 quarantaquattro
 quarantacinque
 quarantasei
@@ -51,7 +51,7 @@ quarantanove
 cinquanta
 cinquantuno
 cinquantadue
-cinquantatré
+cinquantatre
 cinquantaquattro
 cinquantacinque
 cinquantasei
@@ -61,7 +61,7 @@ cinquantanove
 sessanta
 sessantuno
 sessantadue
-sessantatré
+sessantatre
 sessantaquattro
 sessantacinque
 sessantasei
@@ -71,7 +71,7 @@ sessantanove
 settanta
 settantuno
 settantadue
-settantatré
+settantatre
 settantaquattro
 settantacinque
 settantasei
@@ -81,7 +81,7 @@ settantanove
 ottanta
 ottantuno
 ottantadue
-ottantatré
+ottantatre
 ottantaquattro
 ottantacinque
 ottantasei
@@ -91,7 +91,7 @@ ottantanove
 novanta
 novantuno
 novantadue
-novantatré
+novantatre
 novantaquattro
 novantacinque
 novantasei

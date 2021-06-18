@@ -1,0 +1,101 @@
+nul'
+odin
+dva
+tri
+chetyre
+piat'
+shest'
+sem'
+vosem'
+deviat'
+desiat'
+odinnadtsat'
+dvenadtsat'
+trinadtsat'
+chetyrnadtsat'
+piatnadtsat'
+shestnadtsat'
+semnadtsat'
+vosemnadtsat'
+deviatnadtsat'
+dvadtsat'
+dvadtsat' odin
+dvadtsat' dva
+dvadtsat' tri
+dvadtsat' chetyre
+dvadtsat' piat'
+dvadtsat' shest'
+dvadtsat' sem'
+dvadtsat' vosem'
+dvadtsat' deviat'
+tridtsat'
+tridtsat' odin
+tridtsat' dva
+tridtsat' tri
+tridtsat' chetyre
+tridtsat' piat'
+tridtsat' shest'
+tridtsat' sem'
+tridtsat' vosem'
+tridtsat' deviat'
+sorok
+sorok odin
+sorok dva
+sorok tri
+sorok chetyre
+sorok piat'
+sorok shest'
+sorok sem'
+sorok vosem'
+sorok deviat'
+piat'desiat
+piat'desiat odin
+piat'desiat dva
+piat'desiat tri
+piat'desiat chetyre
+piat'desiat piat'
+piat'desiat shest'
+piat'desiat sem'
+piat'desiat vosem'
+piat'desiat deviat'
+shest'desiat
+shest'desiat odin
+shest'desiat dva
+shest'desiat tri
+shest'desiat chetyre
+shest'desiat piat'
+shest'desiat shest'
+shest'desiat sem'
+shest'desiat vosem'
+shest'desiat deviat'
+sem'desiat
+sem'desiat odin
+sem'desiat dva
+sem'desiat tri
+sem'desiat chetyre
+sem'desiat piat'
+sem'desiat shest'
+sem'desiat sem'
+sem'desiat vosem'
+sem'desiat deviat'
+vosem'desiat
+vosem'desiat odin
+vosem'desiat dva
+vosem'desiat tri
+vosem'desiat chetyre
+vosem'desiat piat'
+vosem'desiat shest'
+vosem'desiat sem'
+vosem'desiat vosem'
+vosem'desiat deviat'
+devianosto
+devianosto odin
+devianosto dva
+devianosto tri
+devianosto chetyre
+devianosto piat'
+devianosto shest'
+devianosto sem'
+devianosto vosem'
+devianosto deviat'
+sto

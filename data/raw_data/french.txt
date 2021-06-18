@@ -1,4 +1,4 @@
-zéro
+zero
 un
 deux
 trois

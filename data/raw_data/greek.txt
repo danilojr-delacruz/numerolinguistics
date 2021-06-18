@@ -1,0 +1,101 @@
+meden
+ena
+duo
+tria
+tessera
+pente
+exi
+epta
+okto
+ennea
+deka
+enteka
+dodeka
+dekatria
+dekatessera
+dekapente
+dekaexi
+dekaepta
+dekaokto
+dekaennea
+eikosi
+eikosi ena
+eikosi duo
+eikosi tria
+eikosi tessera
+eikosi pente
+eikosi exi
+eikosi epta
+eikosi okto
+eikosi ennea
+trianta
+trianta ena
+trianta duo
+trianta tria
+trianta tessera
+trianta pente
+trianta exi
+trianta epta
+trianta okto
+trianta ennea
+saranta
+saranta ena
+saranta duo
+saranta tria
+saranta tessera
+saranta pente
+saranta exi
+saranta epta
+saranta okto
+saranta ennea
+penenta
+penenta ena
+penenta duo
+penenta tria
+penenta tessera
+penenta pente
+penenta exi
+penenta epta
+penenta okto
+penenta ennea
+exenta
+exenta ena
+exenta duo
+exenta tria
+exenta tessera
+exenta pente
+exenta exi
+exenta epta
+exenta okto
+exenta ennea
+ebdomenta
+ebdomenta ena
+ebdomenta duo
+ebdomenta tria
+ebdomenta tessera
+ebdomenta pente
+ebdomenta exi
+ebdomenta epta
+ebdomenta okto
+ebdomenta ennea
+ogdonta
+ogdonta ena
+ogdonta duo
+ogdonta tria
+ogdonta tessera
+ogdonta pente
+ogdonta exi
+ogdonta epta
+ogdonta okto
+ogdonta ennea
+enenenta
+enenenta ena
+enenenta duo
+enenenta tria
+enenenta tessera
+enenenta pente
+enenenta exi
+enenenta epta
+enenenta okto
+enenenta ennea
+ekato

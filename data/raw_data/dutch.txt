@@ -20,8 +20,8 @@ achttien
 negentien
 twintig
 eenentwintig
-tweeëntwintig
-drieëntwintig
+tweeentwintig
+drieentwintig
 vierentwintig
 vijfentwintig
 zesentwintig
@@ -30,8 +30,8 @@ achtentwintig
 negenentwintig
 dertig
 eenendertig
-tweeëndertig
-drieëndertig
+tweeendertig
+drieendertig
 vierendertig
 vijfendertig
 zesendertig
@@ -40,8 +40,8 @@ achtendertig
 negenendertig
 veertig
 eenenveertig
-tweeënveertig
-drieënveertig
+tweeenveertig
+drieenveertig
 vierenveertig
 vijfenveertig
 zesenveertig
@@ -50,8 +50,8 @@ achtenveertig
 negenenveertig
 vijftig
 eenenvijftig
-tweeënvijftig
-drieënvijftig
+tweeenvijftig
+drieenvijftig
 vierenvijftig
 vijfenvijftig
 zesenvijftig
@@ -60,8 +60,8 @@ achtenvijftig
 negenenvijftig
 zestig
 eenenzestig
-tweeënzestig
-drieënzestig
+tweeenzestig
+drieenzestig
 vierenzestig
 vijfenzestig
 zesenzestig
@@ -70,8 +70,8 @@ achtenzestig
 negenenzestig
 zeventig
 eenenzeventig
-tweeënzeventig
-drieënzeventig
+tweeenzeventig
+drieenzeventig
 vierenzeventig
 vijfenzeventig
 zesenzeventig
@@ -80,8 +80,8 @@ achtenzeventig
 negenenzeventig
 tachtig
 eenentachtig
-tweeëntachtig
-drieëntachtig
+tweeentachtig
+drieentachtig
 vierentachtig
 vijfentachtig
 zesentachtig
@@ -90,8 +90,8 @@ achtentachtig
 negenentachtig
 negentig
 eenennegentig
-tweeënnegentig
-drieënnegentig
+tweeennegentig
+drieennegentig
 vierennegentig
 vijfennegentig
 zesennegentig
