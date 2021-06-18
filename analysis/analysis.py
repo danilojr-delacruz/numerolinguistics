@@ -6,7 +6,7 @@ from functools import cached_property
 from collections import defaultdict
 
 
-DATA_DIR = "../../data"
+DATA_DIR = "../data/raw_data"
 
 
 class Analyse:
