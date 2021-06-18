@@ -1,0 +1,101 @@
+wala
+isa
+dalawa
+tatlo
+apat
+lima
+anim
+pito
+walo
+siyam
+sampu
+labing-isa
+labindalawa
+labintatlo
+labing-apat
+labinlima
+labing-anim
+labimpito
+labingwalo
+labinsiyam
+dalawampu
+dalawampu't isa
+dalawampu't dalawa
+dalawampu't tatlo
+dalawampu't apat
+dalawampu't lima
+dalawampu't anim
+dalawampu't pito
+dalawampu't walo
+dalawampu't siyam
+tatlumpu
+tatlumpu't isa
+tatlumpu't dalawa
+tatlumpu't tatlo
+tatlumpu't apat
+tatlumpu't lima
+tatlumpu't anim
+tatlumpu't pito
+tatlumpu't walo
+tatlumpu't siyam
+apatnapu
+apatnapu't isa
+apatnapu't dalawa
+apatnapu't tatlo
+apatnapu't apat
+apatnapu't lima
+apatnapu't anim
+apatnapu't pito
+apatnapu't walo
+apatnapu't siyam
+limampu
+limampu't isa
+limampu't dalawa
+limampu't tatlo
+limampu't apat
+limampu't lima
+limampu't anim
+limampu't pito
+limampu't walo
+limampu't siyam
+animnapu
+animnapu't isa
+animnapu't dalawa
+animnapu't tatlo
+animnapu't apat
+animnapu't lima
+animnapu't anim
+animnapu't pito
+animnapu't walo
+animnapu't siyam
+pitumpu
+pitumpu't isa
+pitumpu't dalawa
+pitumpu't tatlo
+pitumpu't apat
+pitumpu't lima
+pitumpu't anim
+pitumpu't pito
+pitumpu't walo
+pitumpu't siyam
+walumpu
+walumpu't isa
+walumpu't dalawa
+walumpu't tatlo
+walumpu't apat
+walumpu't lima
+walumpu't anim
+walumpu't pito
+walumpu't walo
+walumpu't siyam
+siyamnapu
+siyamnapu't isa
+siyamnapu't dalawa
+siyamnapu't tatlo
+siyamnapu't apat
+siyamnapu't lima
+siyamnapu't anim
+siyamnapu't pito
+siyamnapu't walo
+siyamnapu't siyam
+isang daan
