@@ -1,0 +1,101 @@
+huts
+bat
+bi
+hiru
+lau
+bost
+sei
+zazpi
+zortzi
+bederatzi
+hamar
+hamaika
+hamabi
+hamairu
+hamalau
+hamabost
+hamasei
+hamazazpi
+hemezortzi
+hemeretzi
+hogei
+hogei ta bat
+hogei ta bi
+hogei ta hiru
+hogei ta lau
+hogei ta bost
+hogei ta sei
+hogei ta zazpi
+hogei ta zortzi
+hogei ta bederatzi
+hogei ta hamar
+hogei ta hamaika
+hogei ta hamabi
+hogei ta hamairu
+hogei ta hamalau
+hogei ta hamabost
+hogei ta hamasei
+hogei ta hamazazpi
+hogei ta hemezortzi
+hogei ta hemeretzi
+berrogei
+berrogei ta bat
+berrogei ta bi
+berrogei ta hiru
+berrogei ta lau
+berrogei ta bost
+berrogei ta sei
+berrogei ta zazpi
+berrogei ta zortzi
+berrogei ta bederatzi
+berrogei ta hamar
+berrogei ta hamaika
+berrogei ta hamabi
+berrogei ta hamairu
+berrogei ta hamalau
+berrogei ta hamabost
+berrogei ta hamasei
+berrogei ta hamazazpi
+berrogei ta hemezortzi
+berrogei ta hemeretzi
+hirurogei
+hirurogei ta bat
+hirurogei ta bi
+hirurogei ta hiru
+hirurogei ta lau
+hirurogei ta bost
+hirurogei ta sei
+hirurogei ta zazpi
+hirurogei ta zortzi
+hirurogei ta bederatzi
+hirurogei ta hamar
+hirurogei ta hamaika
+hirurogei ta hamabi
+hirurogei ta hamairu
+hirurogei ta hamalau
+hirurogei ta hamabost
+hirurogei ta hamasei
+hirurogei ta hamazazpi
+hirurogei ta hemezortzi
+hirurogei ta hemeretzi
+larrogei
+larrogei ta bat
+larrogei ta bi
+larrogei ta hiru
+larrogei ta lau
+larrogei ta bost
+larrogei ta sei
+larrogei ta zazpi
+larrogei ta zortzi
+larrogei ta bederatzi
+larrogei ta hamar
+larrogei ta hamaika
+larrogei ta hamabi
+larrogei ta hamairu
+larrogei ta hamalau
+larrogei ta hamabost
+larrogei ta hamasei
+larrogei ta hamazazpi
+larrogei ta hemezortzi
+larrogei ta hemeretzi
+ehun

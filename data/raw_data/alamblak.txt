@@ -1,0 +1,101 @@
+?
+rpat
+hosf
+hosfirpat
+hosfihosf
+tir yohtt
+tir yohtti rpat
+tir yohtti hosf
+tir yohtti hosfirpat
+tir yohtti hosfihosf
+tir hosf
+tir hosfi rpat
+tir hosfi hosf
+tir hosfi hosfirpat
+tir hosfi hosfihosf
+tir hosfirpat
+tir hosfirpati rpat
+tir hosfirpati hosf
+tir hosfirpati hosfirpat
+tir hosfirpati hosfihosf
+yima yohtt
+yima yohtti rpat
+yima yohtti hosf
+yima yohtti hosfirpat
+yima yohtti hosfihosf
+yima yohtti tir yohtt
+yima yohtti tir yohtti rpat
+yima yohtti tir yohtti hosf
+yima yohtti tir yohtti hosfirpat
+yima yohtti tir yohtti hosfihosf
+yima yohtti tir hosf
+yima yohtti tir hosfi rpat
+yima yohtti tir hosfi hosf
+yima yohtti tir hosfi hosfirpat
+yima yohtti tir hosfi hosfihosf
+yima yohtti tir hosfirpat
+yima yohtti tir hosfirpati rpat
+yima yohtti tir hosfirpati hosf
+yima yohtti tir hosfirpati hosfirpat
+yima yohtti tir hosfirpati hosfihosf
+yima hosf
+yima hosfi rpat
+yima hosfi hosf
+yima hosfi hosfirpat
+yima hosfi hosfihosf
+yima hosfi tir yohtt
+yima hosfi tir yohtti rpat
+yima hosfi tir yohtti hosf
+yima hosfi tir yohtti hosfirpat
+yima hosfi tir yohtti hosfihosf
+yima hosfi tir hosf
+yima hosfi tir hosfi rpat
+yima hosfi tir hosfi hosf
+yima hosfi tir hosfi hosfirpat
+yima hosfi tir hosfi hosfihosf
+yima hosfi tir hosfirpat
+yima hosfi tir hosfirpati rpat
+yima hosfi tir hosfirpati hosf
+yima hosfi tir hosfirpati hosfirpat
+yima hosfi tir hosfirpati hosfihosf
+yima hosfirpat
+yima hosfirpati rpat
+yima hosfirpati hosf
+yima hosfirpati hosfirpat
+yima hosfirpati hosfihosf
+yima hosfirpati tir yohtt
+yima hosfirpati tir yohtti rpat
+yima hosfirpati tir yohtti hosf
+yima hosfirpati tir yohtti hosfirpat
+yima hosfirpati tir yohtti hosfihosf
+yima hosfirpati tir hosf
+yima hosfirpati tir hosfi rpat
+yima hosfirpati tir hosfi hosf
+yima hosfirpati tir hosfi hosfirpat
+yima hosfirpati tir hosfi hosfihosf
+yima hosfirpati tir hosfirpat
+yima hosfirpati tir hosfirpati rpat
+yima hosfirpati tir hosfirpati hosf
+yima hosfirpati tir hosfirpati hosfirpat
+yima hosfirpati tir hosfirpati hosfihosf
+yima hosfihosf
+yima hosfihosfi rpat
+yima hosfihosfi hosf
+yima hosfihosfi hosfirpat
+yima hosfihosfi hosfihosf
+yima hosfihosfi tir yohtt
+yima hosfihosfi tir yohtti rpat
+yima hosfihosfi tir yohtti hosf
+yima hosfihosfi tir yohtti hosfirpat
+yima hosfihosfi tir yohtti hosfihosf
+yima hosfihosfi tir hosf
+yima hosfihosfi tir hosfi rpat
+yima hosfihosfi tir hosfi hosf
+yima hosfihosfi tir hosfi hosfirpat
+yima hosfihosfi tir hosfi hosfihosf
+yima hosfihosfi tir hosfirpat
+yima hosfihosfi tir hosfirpati rpat
+yima hosfihosfi tir hosfirpati hosf
+yima hosfihosfi tir hosfirpati hosfirpat
+yima hosfihosfi tir hosfirpati hosfihosf
+yima tir yohtt

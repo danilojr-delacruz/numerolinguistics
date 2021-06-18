@@ -1,0 +1,101 @@
+mana imapas
+hoq
+iskay
+kinsa
+tawa
+phisqa
+soqta
+qanchis
+pusaq
+isq'on
+chunka
+chunka hoq-ni-yoq
+chunka iskay-ni-yoq
+chunka kinsa-yoq
+chunka tawa-yoq
+chunka phisqa-yoq
+chunka soqta-yoq
+chunka qanchis-ni-yoq
+chunka pusaq-ni-yoq
+chunka isq'on-ni-yoq
+iskay chunka
+iskay chunka hoq-ni-yoq
+iskay chunka iskay-ni-yoq
+iskay chunka kinsa-yoq
+iskay chunka tawa-yoq
+iskay chunka phisqa-yoq
+iskay chunka soqta-yoq
+iskay chunka qanchis-ni-yoq
+iskay chunka pusaq-ni-yoq
+iskay chunka isq'on-ni-yoq
+kinsa chunka
+kinsa chunka hoq-ni-yoq
+kinsa chunka iskay-ni-yoq
+kinsa chunka kinsa-yoq
+kinsa chunka tawa-yoq
+kinsa chunka phisqa-yoq
+kinsa chunka soqta-yoq
+kinsa chunka qanchis-ni-yoq
+kinsa chunka pusaq-ni-yoq
+kinsa chunka isq'on-ni-yoq
+tawa chunka
+tawa chunka hoq-ni-yoq
+tawa chunka iskay-ni-yoq
+tawa chunka kinsa-yoq
+tawa chunka tawa-yoq
+tawa chunka phisqa-yoq
+tawa chunka soqta-yoq
+tawa chunka qanchis-ni-yoq
+tawa chunka pusaq-ni-yoq
+tawa chunka isq'on-ni-yoq
+phisqa chunka
+phisqa chunka hoq-ni-yoq
+phisqa chunka iskay-ni-yoq
+phisqa chunka kinsa-yoq
+phisqa chunka tawa-yoq
+phisqa chunka phisqa-yoq
+phisqa chunka soqta-yoq
+phisqa chunka qanchis-ni-yoq
+phisqa chunka pusaq-ni-yoq
+phisqa chunka isq'on-ni-yoq
+soqta chunka
+soqta chunka hoq-ni-yoq
+soqta chunka iskay-ni-yoq
+soqta chunka kinsa-yoq
+soqta chunka tawa-yoq
+soqta chunka phisqa-yoq
+soqta chunka soqta-yoq
+soqta chunka qanchis-ni-yoq
+soqta chunka pusaq-ni-yoq
+soqta chunka isq'on-ni-yoq
+qanchis chunka
+qanchis chunka hoq-ni-yoq
+qanchis chunka iskay-ni-yoq
+qanchis chunka kinsa-yoq
+qanchis chunka tawa-yoq
+qanchis chunka phisqa-yoq
+qanchis chunka soqta-yoq
+qanchis chunka qanchis-ni-yoq
+qanchis chunka pusaq-ni-yoq
+qanchis chunka isq'on-ni-yoq
+pusaq chunka
+pusaq chunka hoq-ni-yoq
+pusaq chunka iskay-ni-yoq
+pusaq chunka kinsa-yoq
+pusaq chunka tawa-yoq
+pusaq chunka phisqa-yoq
+pusaq chunka soqta-yoq
+pusaq chunka qanchis-ni-yoq
+pusaq chunka pusaq-ni-yoq
+pusaq chunka isq'on-ni-yoq
+isq'on chunka
+isq'on chunka hoq-ni-yoq
+isq'on chunka iskay-ni-yoq
+isq'on chunka kinsa-yoq
+isq'on chunka tawa-yoq
+isq'on chunka phisqa-yoq
+isq'on chunka soqta-yoq
+isq'on chunka qanchis-ni-yoq
+isq'on chunka pusaq-ni-yoq
+isq'on chunka isq'on-ni-yoq
+pachak

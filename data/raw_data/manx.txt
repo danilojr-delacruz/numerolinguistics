@@ -1,0 +1,101 @@
+?
+nane
+jees
+tree
+kiare
+queig
+shey
+shiaght
+hoght
+nuy
+jeih
+nane-jeig
+daa-yeig
+tree-jeig
+kiare-jeig
+queig-jeig
+shey-jeig
+shiaght-jeig
+hoght-jeig
+nuy-jeig
+feed
+nane as feed
+jees as feed
+tree as feed
+kiare as feed
+queig as feed
+shey as feed
+shiaght as feed
+hoght as feed
+nuy as feed
+jeih as feed
+nane-jeig as feed
+daa-yeig as feed
+tree-jeig as feed
+kiare-jeig as feed
+queig-jeig as feed
+shey-jeig as feed
+shiaght-jeig as feed
+hoght-jeig as feed
+nuy-jeig as feed
+daeed
+nane as daeed
+jees as daeed
+tree as daeed
+kiare as daeed
+queig as daeed
+shey as daeed
+shiaght as daeed
+hoght as daeed
+nuy as daeed
+jeih as daeed
+nane-jeig as daeed
+daa-yeig as daeed
+tree-jeig as daeed
+kiare-jeig as daeed
+queig-jeig as daeed
+shey-jeig as daeed
+shiaght-jeig as daeed
+hoght-jeig as daeed
+nuy-jeig as daeed
+tree feed
+tree feed as nane
+tree feed as jees
+tree feed as tree
+tree feed as kiare
+tree feed as queig
+tree feed as shey
+tree feed as shiaght
+tree feed as hoght
+tree feed as nuy
+tree feed as jeih
+tree feed as nane-jeig
+tree feed as daa-yeig
+tree feed as tree-jeig
+tree feed as kiare-jeig
+tree feed as queig-jeig
+tree feed as shey-jeig
+tree feed as shiaght-jeig
+tree feed as hoght-jeig
+tree feed as nuy-jeig
+kiare feed
+kiare feed as nane
+kiare feed as jees
+kiare feed as tree
+kiare feed as kiare
+kiare feed as queig
+kiare feed as shey
+kiare feed as shiaght
+kiare feed as hoght
+kiare feed as nuy
+kiare feed as jeih
+kiare feed as nane-jeig
+kiare feed as daa-yeig
+kiare feed as tree-jeig
+kiare feed as kiare-jeig
+kiare feed as queig-jeig
+kiare feed as shey-jeig
+kiare feed as shiaght-jeig
+kiare feed as hoght-jeig
+kiare feed as nuy-jeig
+keead

@@ -1,0 +1,101 @@
+?
+mbira
+kira
+tebira
+maria
+duria
+waragaria
+karia
+halira
+dira
+pira
+bearia
+hombearia
+haleria
+deria
+nguira
+nguira-ni mbira
+nguira-ni kira
+nguira-ni tebira
+nguira-ni maria
+nguira-ni duria
+nguira-ni waragaria
+nguira-ni karia
+nguira-ni halira
+nguira-ni dira
+nguira-ni pira
+nguira-ni bearia
+nguira-ni hombearia
+nguira-ni haleria
+nguira-ni deria
+ngui ki
+ngui ki, ngui tebone-gonaga mbira
+ngui ki, ngui tebone-gonaga kira
+ngui ki, ngui tebone-gonaga tebira
+ngui ki, ngui tebone-gonaga maria
+ngui ki, ngui tebone-gonaga duria
+ngui ki, ngui tebone-gonaga waragaria
+ngui ki, ngui tebone-gonaga karia
+ngui ki, ngui tebone-gonaga halira
+ngui ki, ngui tebone-gonaga dira
+ngui ki, ngui tebone-gonaga pira
+ngui ki, ngui tebone-gonaga bearia
+ngui ki, ngui tebone-gonaga hombearia
+ngui ki, ngui tebone-gonaga haleria
+ngui ki, ngui tebone-gonaga deria
+ngui tebo
+ngui tebo, ngui mane-gonaga mbira
+ngui tebo, ngui mane-gonaga kira
+ngui tebo, ngui mane-gonaga tebira
+ngui tebo, ngui mane-gonaga maria
+ngui tebo, ngui mane-gonaga duria
+ngui tebo, ngui mane-gonaga waragaria
+ngui tebo, ngui mane-gonaga karia
+ngui tebo, ngui mane-gonaga halira
+ngui tebo, ngui mane-gonaga dira
+ngui tebo, ngui mane-gonaga pira
+ngui tebo, ngui mane-gonaga bearia
+ngui tebo, ngui mane-gonaga hombearia
+ngui tebo, ngui mane-gonaga haleria
+ngui tebo, ngui mane-gonaga deria
+ngui ma
+ngui ma, ngui dauni-gonaga mbira
+ngui ma, ngui dauni-gonaga kira
+ngui ma, ngui dauni-gonaga tebira
+ngui ma, ngui dauni-gonaga maria
+ngui ma, ngui dauni-gonaga duria
+ngui ma, ngui dauni-gonaga waragaria
+ngui ma, ngui dauni-gonaga karia
+ngui ma, ngui dauni-gonaga halira
+ngui ma, ngui dauni-gonaga dira
+ngui ma, ngui dauni-gonaga pira
+ngui ma, ngui dauni-gonaga bearia
+ngui ma, ngui dauni-gonaga hombearia
+ngui ma, ngui dauni-gonaga haleria
+ngui ma, ngui dauni-gonaga deria
+ngui dau
+ngui dau, ngui waragane-gonaga mbira
+ngui dau, ngui waragane-gonaga kira
+ngui dau, ngui waragane-gonaga tebira
+ngui dau, ngui waragane-gonaga maria
+ngui dau, ngui waragane-gonaga duria
+ngui dau, ngui waragane-gonaga waragaria
+ngui dau, ngui waragane-gonaga karia
+ngui dau, ngui waragane-gonaga halira
+ngui dau, ngui waragane-gonaga dira
+ngui dau, ngui waragane-gonaga pira
+ngui dau, ngui waragane-gonaga bearia
+ngui dau, ngui waragane-gonaga hombearia
+ngui dau, ngui waragane-gonaga haleria
+ngui dau, ngui waragane-gonaga deria
+ngui waraga
+ngui waraga, ngui kane-gonaga mbira
+ngui waraga, ngui kane-gonaga kira
+ngui waraga, ngui kane-gonaga tebira
+ngui waraga, ngui kane-gonaga maria
+ngui waraga, ngui kane-gonaga duria
+ngui waraga, ngui kane-gonaga waragaria
+ngui waraga, ngui kane-gonaga karia
+ngui waraga, ngui kane-gonaga halira
+ngui waraga, ngui kane-gonaga dira
+ngui waraga, ngui kane-gonaga pira

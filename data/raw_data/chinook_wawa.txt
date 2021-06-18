@@ -1,0 +1,101 @@
+?
+ikt
+mokst
+klone
+lakit
+kwinnum
+taghum
+sinamokst
+stotekin
+kwaist
+tahtlum
+tahtlum pe ikt
+tahtlum pe mokst
+tahtlum pe klone
+tahtlum pe lakit
+tahtlum pe kwinnum
+tahtlum pe taghum
+tahtlum pe sinamokst
+tahtlum pe stotekin
+tahtlum pe kwaist
+mokst tahtlum
+mokst tahtlum pe ikt
+mokst tahtlum pe mokst
+mokst tahtlum pe klone
+mokst tahtlum pe lakit
+mokst tahtlum pe kwinnum
+mokst tahtlum pe taghum
+mokst tahtlum pe sinamokst
+mokst tahtlum pe stotekin
+mokst tahtlum pe kwaist
+klone tahtlum
+klone tahtlum pe ikt
+klone tahtlum pe mokst
+klone tahtlum pe klone
+klone tahtlum pe lakit
+klone tahtlum pe kwinnum
+klone tahtlum pe taghum
+klone tahtlum pe sinamokst
+klone tahtlum pe stotekin
+klone tahtlum pe kwaist
+lakit tahtlum
+lakit tahtlum pe ikt
+lakit tahtlum pe mokst
+lakit tahtlum pe klone
+lakit tahtlum pe lakit
+lakit tahtlum pe kwinnum
+lakit tahtlum pe taghum
+lakit tahtlum pe sinamokst
+lakit tahtlum pe stotekin
+lakit tahtlum pe kwaist
+kwinnum tahtlum
+kwinnum tahtlum pe ikt
+kwinnum tahtlum pe mokst
+kwinnum tahtlum pe klone
+kwinnum tahtlum pe lakit
+kwinnum tahtlum pe kwinnum
+kwinnum tahtlum pe taghum
+kwinnum tahtlum pe sinamokst
+kwinnum tahtlum pe stotekin
+kwinnum tahtlum pe kwaist
+taghum tahtlum
+taghum tahtlum pe ikt
+taghum tahtlum pe mokst
+taghum tahtlum pe klone
+taghum tahtlum pe lakit
+taghum tahtlum pe kwinnum
+taghum tahtlum pe taghum
+taghum tahtlum pe sinamokst
+taghum tahtlum pe stotekin
+taghum tahtlum pe kwaist
+sinamokst tahtlum
+sinamokst tahtlum pe ikt
+sinamokst tahtlum pe mokst
+sinamokst tahtlum pe klone
+sinamokst tahtlum pe lakit
+sinamokst tahtlum pe kwinnum
+sinamokst tahtlum pe taghum
+sinamokst tahtlum pe sinamokst
+sinamokst tahtlum pe stotekin
+sinamokst tahtlum pe kwaist
+stotekin tahtlum
+stotekin tahtlum pe ikt
+stotekin tahtlum pe mokst
+stotekin tahtlum pe klone
+stotekin tahtlum pe lakit
+stotekin tahtlum pe kwinnum
+stotekin tahtlum pe taghum
+stotekin tahtlum pe sinamokst
+stotekin tahtlum pe stotekin
+stotekin tahtlum pe kwaist
+kwaist tahtlum
+kwaist tahtlum pe ikt
+kwaist tahtlum pe mokst
+kwaist tahtlum pe klone
+kwaist tahtlum pe lakit
+kwaist tahtlum pe kwinnum
+kwaist tahtlum pe taghum
+kwaist tahtlum pe sinamokst
+kwaist tahtlum pe stotekin
+kwaist tahtlum pe kwaist
+tukamonuk

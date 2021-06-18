@@ -1,0 +1,101 @@
+zeero
+emu
+bbiri
+ssatu
+nnya
+ttaano
+mukaaga
+musanvu
+munaana
+mwenda
+kkumi
+kkumi n'emu
+kkumi na bbiri
+kkumi na ssatu
+kkumi na nnya
+kkumi na ttaano
+kkumi na mukaaga
+kkumi na musanvu
+kkumi na munaana
+kkumi na mwenda
+amakumi abiri
+amakumi abiri mu emu
+amakumi abiri mu bbiri
+amakumi abiri mu ssatu
+amakumi abiri mu nnya
+amakumi abiri mu ttaano
+amakumi abiri mu mukaaga
+amakumi abiri mu musanvu
+amakumi abiri mu munaana
+amakumi abiri mu mwenda
+amakumi asatu
+amakumi asatu mu emu
+amakumi asatu mu bbiri
+amakumi asatu mu ssatu
+amakumi asatu mu nnya
+amakumi asatu mu ttaano
+amakumi asatu mu mukaaga
+amakumi asatu mu musanvu
+amakumi asatu mu munaana
+amakumi asatu mu mwenda
+amakumi ana
+amakumi ana mu emu
+amakumi ana mu bbiri
+amakumi ana mu ssatu
+amakumi ana mu nnya
+amakumi ana mu ttaano
+amakumi ana mu mukaaga
+amakumi ana mu musanvu
+amakumi ana mu munaana
+amakumi ana mu mwenda
+amakumi ataano
+amakumi ataano mu emu
+amakumi ataano mu bbiri
+amakumi ataano mu ssatu
+amakumi ataano mu nnya
+amakumi ataano mu ttaano
+amakumi ataano mu mukaaga
+amakumi ataano mu musanvu
+amakumi ataano mu munaana
+amakumi ataano mu mwenda
+nkaaga
+nkaaga mu emu
+nkaaga mu bbiri
+nkaaga mu ssatu
+nkaaga mu nnya
+nkaaga mu ttaano
+nkaaga mu mukaaga
+nkaaga mu musanvu
+nkaaga mu munaana
+nkaaga mu mwenda
+nsanvu
+nsanvu mu emu
+nsanvu mu bbiri
+nsanvu mu ssatu
+nsanvu mu nnya
+nsanvu mu ttaano
+nsanvu mu mukaaga
+nsanvu mu musanvu
+nsanvu mu munaana
+nsanvu mu mwenda
+kinaana
+kinaana mu emu
+kinaana mu bbiri
+kinaana mu ssatu
+kinaana mu nnya
+kinaana mu ttaano
+kinaana mu mukaaga
+kinaana mu musanvu
+kinaana mu munaana
+kinaana mu mwenda
+kyenda
+kyenda mu emu
+kyenda mu bbiri
+kyenda mu ssatu
+kyenda mu nnya
+kyenda mu ttaano
+kyenda mu mukaaga
+kyenda mu musanvu
+kyenda mu munaana
+kyenda mu mwenda
+kikumi

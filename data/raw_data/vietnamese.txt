@@ -1,0 +1,101 @@
+khong
+mo.t
+hai
+ba
+bo'n
+nam
+sau
+ba?y
+tam
+chin
+mu'o'i
+mu'o'i mo.t
+mu'o'i hai
+mu'o'i ba
+mu'o'i bo'n
+mu'o'i lam
+mu'o'i sau
+mu'o'i ba?y
+mu'o'i tam
+mu'o'i chin
+hai mu'o'i
+hai mu'o'i mo't
+hai mu'o'i hai
+hai mu'o'i ba
+hai mu'o'i bo'n
+hai mu'o'i nham
+hai mu'o'i sau
+hai mu'o'i ba?y
+hai mu'o'i tam
+hai mu'o'i chin
+ba mu'o'i
+ba mu'o'i mo't
+ba mu'o'i hai
+ba mu'o'i ba
+ba mu'o'i bo'n
+ba mu'o'i nham
+ba mu'o'i sau
+ba mu'o'i ba?y
+ba mu'o'i tam
+ba mu'o'i chin
+bo'n mu'o'i
+bo'n mu'o'i mo't
+bo'n mu'o'i hai
+bo'n mu'o'i ba
+bo'n mu'o'i bo'n
+bo'n mu'o'i nham
+bo'n mu'o'i sau
+bo'n mu'o'i ba?y
+bo'n mu'o'i tam
+bo'n mu'o'i chin
+nam mu'o'i
+nam mu'o'i mo't
+nam mu'o'i hai
+nam mu'o'i ba
+nam mu'o'i bo'n
+nam mu'o'i nham
+nam mu'o'i sau
+nam mu'o'i ba?y
+nam mu'o'i tam
+nam mu'o'i chin
+sau mu'o'i
+sau mu'o'i mo't
+sau mu'o'i hai
+sau mu'o'i ba
+sau mu'o'i bo'n
+sau mu'o'i nham
+sau mu'o'i sau
+sau mu'o'i ba?y
+sau mu'o'i tam
+sau mu'o'i chin
+ba?y mu'o'i
+ba?y mu'o'i mo't
+ba?y mu'o'i hai
+ba?y mu'o'i ba
+ba?y mu'o'i bo'n
+ba?y mu'o'i nham
+ba?y mu'o'i sau
+ba?y mu'o'i ba?y
+ba?y mu'o'i tam
+ba?y mu'o'i chin
+tam mu'o'i
+tam mu'o'i mo't
+tam mu'o'i hai
+tam mu'o'i ba
+tam mu'o'i bo'n
+tam mu'o'i nham
+tam mu'o'i sau
+tam mu'o'i ba?y
+tam mu'o'i tam
+tam mu'o'i chin
+chin mu'o'i
+chin mu'o'i mo't
+chin mu'o'i hai
+chin mu'o'i ba
+chin mu'o'i bo'n
+chin mu'o'i nham
+chin mu'o'i sau
+chin mu'o'i ba?y
+chin mu'o'i tam
+chin mu'o'i chin
+mo.t tram

@@ -1,0 +1,101 @@
+nul
+unu
+du
+tri
+kvar
+kvin
+ses
+sep
+ok
+nau
+dek
+dek unu
+dek du
+dek tri
+dek kvar
+dek kvin
+dek ses
+dek sep
+dek ok
+dek nau
+dudek
+dudek unu
+dudek du
+dudek tri
+dudek kvar
+dudek kvin
+dudek ses
+dudek sep
+dudek ok
+dudek nau
+tridek
+tridek unu
+tridek du
+tridek tri
+tridek kvar
+tridek kvin
+tridek ses
+tridek sep
+tridek ok
+tridek nau
+kvardek
+kvardek unu
+kvardek du
+kvardek tri
+kvardek kvar
+kvardek kvin
+kvardek ses
+kvardek sep
+kvardek ok
+kvardek nau
+kvindek
+kvindek unu
+kvindek du
+kvindek tri
+kvindek kvar
+kvindek kvin
+kvindek ses
+kvindek sep
+kvindek ok
+kvindek nau
+sesdek
+sesdek unu
+sesdek du
+sesdek tri
+sesdek kvar
+sesdek kvin
+sesdek ses
+sesdek sep
+sesdek ok
+sesdek nau
+sepdek
+sepdek unu
+sepdek du
+sepdek tri
+sepdek kvar
+sepdek kvin
+sepdek ses
+sepdek sep
+sepdek ok
+sepdek nau
+okdek
+okdek unu
+okdek du
+okdek tri
+okdek kvar
+okdek kvin
+okdek ses
+okdek sep
+okdek ok
+okdek nau
+naudek
+naudek unu
+naudek du
+naudek tri
+naudek kvar
+naudek kvin
+naudek ses
+naudek sep
+naudek ok
+naudek nau
+cent

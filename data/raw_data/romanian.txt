@@ -1,0 +1,101 @@
+zero
+unu
+doi
+trei
+patru
+cinci
+sase
+sapte
+opt
+noua
+zece
+unsprezece
+doisprezece
+treisprezece
+paisprezece
+cincisprezece
+saisprezece
+saptesprezece
+optsprezece
+nouasprezece
+douazeci
+douazeci si unu
+douazeci si doi
+douazeci si trei
+douazeci si patru
+douazeci si cinci
+douazeci si sase
+douazeci si sapte
+douazeci si opt
+douazeci si noua
+treizeci
+treizeci si unu
+treizeci si doi
+treizeci si trei
+treizeci si patru
+treizeci si cinci
+treizeci si sase
+treizeci si sapte
+treizeci si opt
+treizeci si noua
+patruzeci
+patruzeci si unu
+patruzeci si doi
+patruzeci si trei
+patruzeci si patru
+patruzeci si cinci
+patruzeci si sase
+patruzeci si sapte
+patruzeci si opt
+patruzeci si noua
+cincizeci
+cincizeci si unu
+cincizeci si doi
+cincizeci si trei
+cincizeci si patru
+cincizeci si cinci
+cincizeci si sase
+cincizeci si sapte
+cincizeci si opt
+cincizeci si noua
+saizeci
+saizeci si unu
+saizeci si doi
+saizeci si trei
+saizeci si patru
+saizeci si cinci
+saizeci si sase
+saizeci si sapte
+saizeci si opt
+saizeci si noua
+saptezeci
+saptezeci si unu
+saptezeci si doi
+saptezeci si trei
+saptezeci si patru
+saptezeci si cinci
+saptezeci si sase
+saptezeci si sapte
+saptezeci si opt
+saptezeci si noua
+optzeci
+optzeci si unu
+optzeci si doi
+optzeci si trei
+optzeci si patru
+optzeci si cinci
+optzeci si sase
+optzeci si sapte
+optzeci si opt
+optzeci si noua
+nouazeci
+nouazeci si unu
+nouazeci si doi
+nouazeci si trei
+nouazeci si patru
+nouazeci si cinci
+nouazeci si sase
+nouazeci si sapte
+nouazeci si opt
+nouazeci si noua
+o suta

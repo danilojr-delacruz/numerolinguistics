@@ -1,0 +1,101 @@
+nul
+siji
+loro
+telu
+papat
+lima
+nem
+pitu
+wolu
+sanga
+sapuluh
+sewelas
+rolas
+telulas
+patbelas
+limalas
+nembelas
+pitulas
+wolulas
+sangalas
+rong puluh
+selikur
+rolikur
+telulikur
+patlikur
+selawe
+nemlikur
+pitulikur
+wolulikur
+sangalikur
+telung puluh
+telung puluh siji
+telung puluh loro
+telung puluh telu
+telung puluh papat
+telung puluh lima
+telung puluh nem
+telung puluh pitu
+telung puluh wolu
+telung puluh sanga
+patang puluh
+patang puluh siji
+patang puluh loro
+patang puluh telu
+patang puluh papat
+patang puluh lima
+patang puluh nem
+patang puluh pitu
+patang puluh wolu
+patang puluh sanga
+seket
+seket siji
+seket loro
+seket telu
+seket papat
+seket lima
+seket nem
+seket pitu
+seket wolu
+seket sanga
+suwidak
+suwidak siji
+suwidak loro
+suwidak telu
+suwidak papat
+suwidak lima
+suwidak nem
+suwidak pitu
+suwidak wolu
+suwidak sanga
+pitung puluh
+pitung puluh siji
+pitung puluh loro
+pitung puluh telu
+pitung puluh papat
+pitung puluh lima
+pitung puluh nem
+pitung puluh pitu
+pitung puluh wolu
+pitung puluh sanga
+wolung puluh
+wolung puluh siji
+wolung puluh loro
+wolung puluh telu
+wolung puluh papat
+wolung puluh lima
+wolung puluh nem
+wolung puluh pitu
+wolung puluh wolu
+wolung puluh sanga
+sangang puluh
+sangang puluh siji
+sangang puluh loro
+sangang puluh telu
+sangang puluh papat
+sangang puluh lima
+sangang puluh nem
+sangang puluh pitu
+sangang puluh wolu
+sangang puluh sanga
+satus

@@ -1,0 +1,101 @@
+?
+uks
+kaks
+kolm
+neli
+viis
+kuus
+seitse
+kaheksa
+uheksa
+kumme
+uksteist
+kaksteist
+kolmteist
+neliteist
+viisteist
+kuusteist
+seitseteist
+kaheksateist
+uheksateist
+kakskummend
+kakskummend uks
+kakskummend kaks
+kakskummend kolm
+kakskummend neli
+kakskummend viis
+kakskummend kuus
+kakskummend seitse
+kakskummend kaheksa
+kakskummend uheksa
+kolmkummend
+kolmkummend uks
+kolmkummend kaks
+kolmkummend kolm
+kolmkummend neli
+kolmkummend viis
+kolmkummend kuus
+kolmkummend seitse
+kolmkummend kaheksa
+kolmkummend uheksa
+nelikummend
+nelikummend uks
+nelikummend kaks
+nelikummend kolm
+nelikummend neli
+nelikummend viis
+nelikummend kuus
+nelikummend seitse
+nelikummend kaheksa
+nelikummend uheksa
+viiskummend
+viiskummend uks
+viiskummend kaks
+viiskummend kolm
+viiskummend neli
+viiskummend viis
+viiskummend kuus
+viiskummend seitse
+viiskummend kaheksa
+viiskummend uheksa
+kuuskummend
+kuuskummend uks
+kuuskummend kaks
+kuuskummend kolm
+kuuskummend neli
+kuuskummend viis
+kuuskummend kuus
+kuuskummend seitse
+kuuskummend kaheksa
+kuuskummend uheksa
+seitsekummend
+seitsekummend uks
+seitsekummend kaks
+seitsekummend kolm
+seitsekummend neli
+seitsekummend viis
+seitsekummend kuus
+seitsekummend seitse
+seitsekummend kaheksa
+seitsekummend uheksa
+kaheksakummend
+kaheksakummend uks
+kaheksakummend kaks
+kaheksakummend kolm
+kaheksakummend neli
+kaheksakummend viis
+kaheksakummend kuus
+kaheksakummend seitse
+kaheksakummend kaheksa
+kaheksakummend uheksa
+uheksakummend
+uheksakummend uks
+uheksakummend kaks
+uheksakummend kolm
+uheksakummend neli
+uheksakummend viis
+uheksakummend kuus
+uheksakummend seitse
+uheksakummend kaheksa
+uheksakummend uheksa
+sada
