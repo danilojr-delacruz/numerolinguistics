@@ -1,6 +1,7 @@
 import pandas as pd
-from unidecode import unidecode
 
+
+from unidecode import unidecode
 
 
 for language in ['ainu', 'alamblak', 'arabic', 'assyrian', 'aymara', 'basque',
@@ -14,9 +15,7 @@ for language in ['ainu', 'alamblak', 'arabic', 'assyrian', 'aymara', 'basque',
 
     url = f"http://www.sf.airnet.ne.jp/~ts/language/number/{language}.html"
     table = pd.read_html(url, match='Reading')[0]
-
     list_of_nums = table.iloc[:,1].fillna('?').to_list()
 
-    f = open(f'{language.lower()}.txt', 'w')
-    f.write('\n'.join([unidecode(n) for n in list_of_nums]))
-    f.close()
+    with open(f'{language.lower()}.txt', 'w') as f:
+        f.write('\n'.join([unidecode(n) for n in list_of_nums]))
