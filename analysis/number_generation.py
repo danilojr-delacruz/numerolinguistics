@@ -6,15 +6,16 @@ b = ['', '', 'twenty', 'thirty', 'forty', 'fifty', 'sixty', 'seventy', 'eighty',
      'ninety']
 
 
-def word(n):
+def english_number(n):
+    """Return the english word for the number n."""
     num = ''
     if n==0:
         return 'zero'
     elif n < 0:
-        return 'negative ' + word(-n)
+        return 'negative ' + english_number(-n)
     else:
         if n >= 1000:
-            num += word(n//1000) + ' thousand'
+            num += english_number(n//1000) + ' thousand'
             if 0 < n % 1000 < 100:
                 num += ' and'
             n = n % 1000
@@ -30,7 +31,3 @@ def word(n):
             num += ' ' + b[(n%100)//10] + ' ' + a[n%10]
         
         return num.strip()
-
-while True:
-    n = int(input())
-    print(word(n))
