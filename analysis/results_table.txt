@@ -1,0 +1,50 @@
+|    | language      |   max_fixed_point |   max_cycle_length | fixed_point                      | cycle                                             |
+|---:|:--------------|------------------:|-------------------:|:---------------------------------|:--------------------------------------------------|
+|  0 | ainu          |                 7 |                  1 | arwanpe                          | arwanpe                                           |
+|  1 | alamblak      |                28 |                  1 | yima yohtti tir yohtti hosfirpat | tir hosfirpati hosf                               |
+|  2 | arabic        |                 0 |                  2 | Null                             | khamsata 'ashar → thalathata 'ashar               |
+|  3 | assyrian      |                 7 |                  1 | shaawaa                          | ishtaa                                            |
+|  4 | aymara        |                11 |                  2 | tunka-mayani                     | phisca → suxta                                    |
+|  5 | basque        |                 9 |                  2 | bederatzi                        | hiru → lau                                        |
+|  6 | chinese       |                 3 |                  1 | San                              | Er                                                |
+|  7 | chinook_wawa  |                14 |                  2 | tahtlum pe lakit                 | tahtlum pe sinamokst → tahtlum pe stotekin        |
+|  8 | croatian      |                 3 |                  2 | tri                              | sest → cetiri                                     |
+|  9 | cuzco_quechua |                15 |                  2 | chunka phisqa-yoq                | chunka tawa-yoq → chunka kinsa-yoq                |
+| 10 | danish        |                 4 |                  1 | fire                             | tre                                               |
+| 11 | dutch         |                 4 |                  1 | vier                             | vier                                              |
+| 12 | english       |                 4 |                  1 | four                             | four                                              |
+| 13 | esperanto     |                 4 |                  1 | kvar                             | tri                                               |
+| 14 | estonian      |                 4 |                  1 | neli                             | neli                                              |
+| 15 | finnish       |                 5 |                  2 | viisi                            | kahdeksan → yhdeksan                              |
+| 16 | french        |                 0 |                  4 | Null                             | trois → cinq → quatre → six                       |
+| 17 | ganda         |                12 |                  1 | kkumi na bbiri                   | nnya                                              |
+| 18 | georgian      |                 5 |                  1 | khuti                            | khuti                                             |
+| 19 | german        |                 4 |                  1 | vier                             | vier                                              |
+| 20 | greek         |                 5 |                  2 | pente                            | tessera → epta                                    |
+| 21 | hawaiian      |                 4 |                  2 | `eha                             | `umikumakahi → `umikumalua                        |
+| 22 | hindi         |                 2 |                  2 | do                               | paanch → chhuh                                    |
+| 23 | huli          |                 5 |                  1 | duria                            | duria                                             |
+| 24 | hungarian     |                 4 |                  2 | negy                             | ketto → ot                                        |
+| 25 | indonesian    |                 0 |                  2 | Null                             | lima → empat                                      |
+| 26 | italian       |                 3 |                  1 | tre                              | tre                                               |
+| 27 | javanese      |                 0 |                  2 | Null                             | lima → papat                                      |
+| 28 | kiribati      |                 0 |                  3 | Null                             | tebwi ma uoua → tebwi ma teuana → tebwi ma tenua  |
+| 29 | latin         |                 0 |                  2 | Null                             | quattuor → octo                                   |
+| 30 | maltese       |                 5 |                  1 | hamsa                            | hamsa                                             |
+| 31 | manx          |                 7 |                  1 | shiaght                          | queig                                             |
+| 32 | nahuatl       |                10 |                  1 | mahtlactli                       | eyi                                               |
+| 33 | ndom          |                 0 |                  3 | Null                             | mer an thef → mer abo ithin → mer abo meregh      |
+| 34 | norwegian     |                 4 |                  1 | fire                             | to                                                |
+| 35 | ojibwa        |                 0 |                  2 | Null                             | nishwaaswi → midaaswi                             |
+| 36 | portuguese    |                 5 |                  2 | cinco                            | quatro → seis                                     |
+| 37 | romanian      |                 5 |                  1 | cinci                            | cinci                                             |
+| 38 | russian       |                11 |                  1 | odinnadtsat'                     | tri                                               |
+| 39 | spanish       |                 5 |                  2 | cinco                            | cuatro → seis                                     |
+| 40 | swahili       |                 0 |                  2 | Null                             | tatu → nne                                        |
+| 41 | swedish       |                 4 |                  1 | fyra                             | fyra                                              |
+| 42 | tagalog       |                 4 |                  1 | apat                             | apat                                              |
+| 43 | thai          |                 0 |                  2 | Null                             | sahm → see                                        |
+| 44 | vietnamese    |                 0 |                  2 | Null                             | hai → ba                                          |
+| 45 | wolof         |                19 |                  2 | fukka ak juroom nenent           | fukka ak benna → fukka ak naar                    |
+| 46 | yoruba        |                 5 |                  1 | marun                            | marun                                             |
+| 47 | zulu          |                27 |                  2 | amashumi amabili nesikhombisa    | amashumi amabili nane → ishumi nesishiyagalolunye |
