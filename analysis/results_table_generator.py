@@ -11,8 +11,8 @@ langs = sorted([filename[:-4] for filename in listdir("../data/raw_data")])
 data = {
     "language": [],
     "max_fixed_point": [],
-    "max_cycle_length": [],
     "fixed_point": [],
+    "max_cycle_length": [],
     "cycle": []
 }
 
