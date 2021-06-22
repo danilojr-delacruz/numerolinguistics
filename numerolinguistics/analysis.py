@@ -64,7 +64,7 @@ class Analyse:
 
     @cached_property
     def highest_fixed_point(self):
-        return max(self.fixed_points, key=self.length) if self.fixed_points else "Null"
+        return max(self.fixed_points, key=self.length) if self.fixed_points else "-"
 
     @cached_property
     def longest_cycle(self):
