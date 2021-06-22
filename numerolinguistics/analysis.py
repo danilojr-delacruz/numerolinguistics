@@ -51,16 +51,25 @@ class Analyse:
 
     @cached_property
     def fixed_points(self):
-        return [cycle[0] for cycle in self.simple_cycles if len(cycle) == 1]
+        return [cycle[0] for cycle in self.cycles if len(cycle) == 1]
 
     @cached_property
     def proper_cycles(self):
-        return [cycle for cycle in self.simple_cycles if len(cycle) > 1]
+        return [cycle for cycle in self.cycles if len(cycle) > 1]
 
     @cached_property
     def highest_fixed_point(self):
-        return max(self.fixed_points, key=lambda x: length(x))
+        return max(self.fixed_points, key=lambda x: length(x)) if self.fixed_points else "Null"
 
     @cached_property
     def longest_cycle(self):
-        return max(self.simple_cycles, key=len)
+        return max(self.cycles, key=len)
+
+    @property
+    def max_fixed_point(self):
+        """Return the value of the highest fixed point."""
+        return length(self.highest_fixed_point) if self.fixed_points else -1
+
+    @property
+    def max_cycle_length(self):
+        return len(self.longest_cycle)
