@@ -10,29 +10,34 @@ from numerolinguistics.data import NUMBERS, SUPPORTED_LANGUAGES
 BLACKLIST = ["-", "\ ", "'", "`"]
 
 
-def clean(number):
+def clean(number, blacklist=BLACKLIST):
     """Remove blacklisted characters."""
-    return re.sub(r"|".join(BLACKLIST), "", number)
+    return re.sub(r"|".join(blacklist), "", number)
 
 
-def length(number):
+def length(number, blacklist=BLACKLIST):
     """Return the clean length of a number."""
-    return len(clean(number))
+    return len(clean(number, blacklist))
 
 
 class Analyse:
-    def __init__(self, language, threshold=100):
+    def __init__(self, language, threshold=100, blacklist=BLACKLIST):
         """Return the numbers in the langauge up to the threshold."""
         assert language in SUPPORTED_LANGUAGES, f"{language} is not supported."
         assert threshold <= 100, "Numbers above 100 are not available."
+    
+        self.language = language
         self.threshold = threshold
+        self.blacklist = blacklist
         self.numbers = NUMBERS[language][:threshold + 1]
-        self.clean_numbers = [clean(number) for number in self.numbers]
+
+    def length(self, number):
+        return length(number, self.blacklist)
 
     @cached_property
     def lengths(self):
         """Return length of numbers below given threshold."""
-        return [length(number) for number in self.numbers]
+        return [self.length(number) for number in self.numbers]
 
     @cached_property
     def graph(self):
@@ -59,7 +64,7 @@ class Analyse:
 
     @cached_property
     def highest_fixed_point(self):
-        return max(self.fixed_points, key=lambda x: length(x)) if self.fixed_points else "Null"
+        return max(self.fixed_points, key=self.length) if self.fixed_points else "Null"
 
     @cached_property
     def longest_cycle(self):
@@ -68,8 +73,16 @@ class Analyse:
     @property
     def max_fixed_point(self):
         """Return the value of the highest fixed point."""
-        return length(self.highest_fixed_point) if self.fixed_points else -1
+        return self.length(self.highest_fixed_point) if self.fixed_points else -1
 
     @property
     def max_cycle_length(self):
         return len(self.longest_cycle)
+
+    def __repr__(self):
+        return (f"{self.__class__.__name__}"
+                f"(\"{self.language}\", {self.threshold}, {self.blacklist})")
+
+    def __len__(self):
+        "Return length of self.numbers"
+        return self.threshold + 1
