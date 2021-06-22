@@ -3,7 +3,7 @@ import networkx as nx
 
 
 from functools import cached_property
-from collections import defaultdict
+from numerolinguistics.data import *
 
 
 DATA_DIR = "../data/raw_data"
