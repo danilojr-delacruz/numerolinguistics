@@ -33,7 +33,7 @@ with open("results_table.txt", "w") as f:
     f.write(df.to_latex(
         index=False,
         longtable=True,
-        headers=[
+        header=[
             "Language", "MFP", "Highest Fixed Point", "MCL", "Longest Cycle"
         ],
         column_format="|c|c|c|c|c|",
