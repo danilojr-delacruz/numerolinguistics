@@ -38,7 +38,10 @@ for blacklist in powerset(BLACKLIST):
         try:
             summary = Analyse(lang, blacklist=blacklist)
 
-            hfp.append((lang, summary.max_fixed_point))
+            if summary.max_fixed_point == "-":
+                hfp.append((lang, -1))
+            else:
+                hfp.append((lang, summary.max_fixed_point))
             mcl.append((lang, summary.max_cycle_length))
             mfp.append((lang, len(summary.fixed_points)))
             mpc.append((lang, len(summary.proper_cycles)))

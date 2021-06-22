@@ -73,7 +73,7 @@ class Analyse:
     @property
     def max_fixed_point(self):
         """Return the value of the highest fixed point."""
-        return self.length(self.highest_fixed_point) if self.fixed_points else -1
+        return self.length(self.highest_fixed_point) if self.fixed_points else "-"
 
     @property
     def max_cycle_length(self):
