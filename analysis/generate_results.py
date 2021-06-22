@@ -1,7 +1,6 @@
 import pandas as pd
 
 
-from os import listdir
 from numerolinguistics.analysis import Analyse, SUPPORTED_LANGUAGES
 
 
@@ -27,15 +26,17 @@ for lang in SUPPORTED_LANGUAGES:
 
 df = pd.DataFrame.from_dict(data)
 
-df.columns = ["Language", "MFP", "Highest Fixed Point", "MCL", "Longest Cycle"]
-df.columns = df.columns.to_series().apply(lambda r: "\\textbf{" + r + "}")
 
+# Will have to make headers bold manually
 with open("results_table.txt", "w") as f:
     f.write("\\begin{landscape}\n")
     f.write(df.to_latex(
         index=False,
         longtable=True,
+        headers=[
+            "Language", "MFP", "Highest Fixed Point", "MCL", "Longest Cycle"
+        ],
         column_format="|c|c|c|c|c|",
-        escape=False
+        escape=True
     ))
     f.write("\\end{landscape}\n")
