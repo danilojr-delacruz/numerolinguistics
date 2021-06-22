@@ -20,10 +20,10 @@
      alamblak &  28 & yima yohtti tir yohtti hosfirpat &   1 &                               tir hosfirpati hosf \\
        arabic &   - &                                - &   2 &               thalathata 'ashar → khamsata 'ashar \\
      assyrian &   7 &                          shaawaa &   1 &                                            ishtaa \\
-       aymara &  11 &                     tunka-mayani &   2 &                                    phisca → suxta \\
+       aymara &  11 &                     tunka-mayani &   2 &                                    suxta → phisca \\
        basque &   9 &                        bederatzi &   2 &                                        lau → hiru \\
       chinese &   3 &                             San  &   1 &                                               Er  \\
- chinook\_wawa &  14 &                 tahtlum pe lakit &   2 &        tahtlum pe sinamokst → tahtlum pe stotekin \\
+ chinook\_wawa &  14 &                 tahtlum pe lakit &   2 &        tahtlum pe stotekin → tahtlum pe sinamokst \\
      croatian &   3 &                              tri &   2 &                                     sest → cetiri \\
 cuzco\_quechua &  15 &                chunka phisqa-yoq &   2 &                chunka tawa-yoq → chunka kinsa-yoq \\
        danish &   4 &                             fire &   1 &                                               tre \\
@@ -31,28 +31,28 @@ cuzco\_quechua &  15 &                chunka phisqa-yoq &   2 &                c
       english &   4 &                             four &   1 &                                              four \\
     esperanto &   4 &                             kvar &   1 &                                               tri \\
      estonian &   4 &                             neli &   1 &                                              neli \\
-      finnish &   5 &                            viisi &   2 &                              yhdeksan → kahdeksan \\
-       french &   - &                                - &   4 &                       cinq → quatre → six → trois \\
+      finnish &   5 &                            viisi &   2 &                              kahdeksan → yhdeksan \\
+       french &   - &                                - &   4 &                       six → trois → cinq → quatre \\
         ganda &  12 &                   kkumi na bbiri &   1 &                                              nnya \\
      georgian &   5 &                            khuti &   1 &                                             khuti \\
        german &   4 &                             vier &   1 &                                              vier \\
-        greek &   5 &                            pente &   2 &                                    epta → tessera \\
+        greek &   5 &                            pente &   2 &                                    tessera → epta \\
      hawaiian &  11 &                     `umikumakahi &   1 &                                            `elima \\
         hindi &   2 &                               do &   2 &                                    chhuh → paanch \\
          huli &   5 &                            duria &   1 &                                             duria \\
-    hungarian &   4 &                             negy &   2 &                                        ketto → ot \\
+    hungarian &   4 &                             negy &   2 &                                        ot → ketto \\
    indonesian &   - &                                - &   2 &                                      empat → lima \\
       italian &   3 &                              tre &   1 &                                               tre \\
      javanese &   - &                                - &   2 &                                      papat → lima \\
-     kiribati &   - &                                - &   3 &  tebwi ma uoua → tebwi ma teuana → tebwi ma tenua \\
-        latin &   - &                                - &   2 &                                   octo → quattuor \\
+     kiribati &   - &                                - &   3 &  tebwi ma teuana → tebwi ma tenua → tebwi ma uoua \\
+        latin &   - &                                - &   2 &                                   quattuor → octo \\
       maltese &   5 &                            hamsa &   1 &                                             hamsa \\
          manx &   7 &                          shiaght &   1 &                                             queig \\
       nahuatl &  10 &                       mahtlactli &   1 &                                               eyi \\
-         ndom &   - &                                - &   3 &      mer abo meregh → mer an thef → mer abo ithin \\
+         ndom &   - &                                - &   3 &      mer abo ithin → mer abo meregh → mer an thef \\
     norwegian &   4 &                             fire &   1 &                                                to \\
-       ojibwa &   - &                                - &   2 &                             nishwaaswi → midaaswi \\
-   portuguese &   5 &                            cinco &   2 &                                     quatro → seis \\
+       ojibwa &   - &                                - &   2 &                             midaaswi → nishwaaswi \\
+   portuguese &   5 &                            cinco &   2 &                                     seis → quatro \\
      romanian &   5 &                            cinci &   1 &                                             cinci \\
       russian &  11 &                     odinnadtsat' &   1 &                                               tri \\
       spanish &   5 &                            cinco &   2 &                                     seis → cuatro \\
@@ -60,9 +60,9 @@ cuzco\_quechua &  15 &                chunka phisqa-yoq &   2 &                c
       swedish &   4 &                             fyra &   1 &                                              fyra \\
       tagalog &   4 &                             apat &   1 &                                              apat \\
          thai &   - &                                - &   2 &                                        see → sahm \\
-   vietnamese &   - &                                - &   2 &                                          ba → hai \\
+   vietnamese &   - &                                - &   2 &                                          hai → ba \\
         wolof &  19 &           fukka ak juroom nenent &   2 &                    fukka ak naar → fukka ak benna \\
        yoruba &   5 &                            marun &   1 &                                             marun \\
-         zulu &  27 &    amashumi amabili nesikhombisa &   2 & ishumi nesishiyagalolunye → amashumi amabili nane \\
+         zulu &  27 &    amashumi amabili nesikhombisa &   2 & amashumi amabili nane → ishumi nesishiyagalolunye \\
 \end{longtable}
 \end{landscape}

@@ -16,6 +16,15 @@ def powerset(iterable):
     return chain.from_iterable(combinations(s, r) for r in range(len(s)+1))
 
 
+prettify = {
+    "-": "H",
+    "\ ": "S",
+    "'": "A",
+    "`": "B",
+    ",": "C"
+}
+
+
 data = {
     "Blacklist": [],
     "Highest Fixed Point": [],
@@ -26,7 +35,8 @@ data = {
 
 
 for blacklist in powerset(BLACKLIST):
-    data["Blacklist"].append(blacklist)
+    pretty_blacklist = [prettify[symbol] for symbol in blacklist]
+    data["Blacklist"].append(tuple(pretty_blacklist))
 
     hfp = []
     mcl = []

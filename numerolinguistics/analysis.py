@@ -7,7 +7,7 @@ from numerolinguistics.data import NUMBERS, SUPPORTED_LANGUAGES
 
 
 # Remember to escape if it's a special character (Regex)
-BLACKLIST = ["-", "\ ", "'", "`"]
+BLACKLIST = ["-", "\ ", "'", "`", ","]
 
 
 def clean(number, blacklist=BLACKLIST):
