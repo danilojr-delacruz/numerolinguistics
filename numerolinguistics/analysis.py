@@ -3,10 +3,9 @@ import networkx as nx
 
 
 from functools import cached_property
-from numerolinguistics.data import *
+from numerolinguistics.data import NUMBERS, SUPPORTED_LANGUAGES
 
 
-DATA_DIR = "../data/raw_data"
 # Remember to escape if it's a special character (Regex)
 BLACKLIST = ["-", "\ ", "'"]
 
@@ -22,28 +21,24 @@ def length(number):
 
 
 class Analyse:
-    def __init__(self, language):
-        # TODO: Allow for a threshold for numbers to consider.
-        with open(f"{DATA_DIR}/{language}.txt", "r") as f:
-            self.numbers = f.read().splitlines()
-            self.clean_numbers = [clean(number) for number in self.numbers]
+    def __init__(self, language, threshold=100):
+        """Return the numbers in the langauge up to the threshold."""
+        assert language in SUPPORTED_LANGUAGES, f"{language} is not supported."
+        assert threshold <= 100, "Numbers above 100 are not available."
+        self.threshold = threshold
+        self.numbers = NUMBERS[language][:threshold + 1]
+        self.clean_numbers = [clean(number) for number in self.numbers]
 
     @cached_property
     def lengths(self):
         """Return length of numbers below given threshold."""
         return [length(number) for number in self.numbers]
 
-    def average_length(self, threshold):
-        """Return length of numbers below a given threshold."""
-        # TODO: Check if this index is correct.
-        lengths = self.lengths[:min(len(self.numbers), threshold)]
-        return sum(lengths) / len(lengths)
-
     @cached_property
     def graph(self):
         G = nx.DiGraph([
             (self.numbers[i], self.numbers[self.lengths[i]])
-            for i in range(100 + 1)])
+            for i in range(self.threshold + 1)])
         return G
 
     @cached_property
@@ -51,7 +46,7 @@ class Analyse:
         return dict(self.graph.degree)
 
     @cached_property
-    def simple_cycles(self):
+    def cycles(self):
         return list(nx.simple_cycles(self.graph))
 
     @cached_property
@@ -59,8 +54,7 @@ class Analyse:
         return [cycle[0] for cycle in self.simple_cycles if len(cycle) == 1]
 
     @cached_property
-    def cycles(self):
-        """Return simple cycles that are not fixed points."""
+    def proper_cycles(self):
         return [cycle for cycle in self.simple_cycles if len(cycle) > 1]
 
     @cached_property
