@@ -6,7 +6,7 @@ b = ['', '', 'twenty', 'thirty', 'forty', 'fifty', 'sixty', 'seventy', 'eighty',
      'ninety']
 
 
-from analysis import length
+from numerolinguistics.analysis import length
 
 
 def english_number(n):
