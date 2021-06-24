@@ -86,6 +86,22 @@ def N_estimate():
     plt.savefig("figures/N_estimate.png", format="PNG")
 
 
+def n_against_length():
+    m = 10
+    n = np.arange(10**6)
+    lengths = [length(english_number(number)) for number in n]
+
+
+    plt.figure(figsize=(15, 5))
+    plt.loglog(n, lengths, label="$f_{\mathrm{English}}$")
+    plt.loglog(n, n, label="$n$")
+    plt.loglog(n, ulh(n, m), label="$\widehat{\mathrm{ul}}$")
+    plt.legend(loc="upper left")
+    plt.xlabel("Value")
+    plt.ylabel("Length")
+    plt.savefig("figures/n_against_length.png", format="PNG")
+
+
 if __name__ == "__main__":
     description = """Generate figures.
 
@@ -100,7 +116,11 @@ if __name__ == "__main__":
     parser.add_argument("figures", nargs="+")
     args = parser.parse_args()
 
-    figures = [english10, french10, english100, eng_ul, g_plot, N_estimate]
+    figures = [
+        english10, french10, english100,
+        eng_ul, g_plot, N_estimate,
+        n_against_length
+        ]
 
     if args.figures[0] == "a":
         to_generate = figures
