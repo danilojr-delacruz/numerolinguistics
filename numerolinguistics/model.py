@@ -7,6 +7,10 @@ import numpy as np
 from scipy.optimize import bisect
 
 
+def ul(n, m):
+    return m * (np.floor(np.log(n)) + 1)
+
+
 def ulh(n, m):
     return m * (np.log10(n) + 1)
 
