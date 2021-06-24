@@ -6,5 +6,3 @@ Taking inspiration from the [Gresham College](https://www.youtube.com/channel/UC
   * What's a safe testing threshold for all languages?
   * What's the highest fixed point in any language?
   * What is the longest cycle in any language?
-  * Are there any other features of interest?
-  * Apply notions of centrality from Network Science.
