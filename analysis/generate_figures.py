@@ -45,7 +45,7 @@ def g_plot():
     def g(n):
         return ulh(n, m) - n
 
-    plt.figure(figsize=(7.5, 3))
+    plt.figure(figsize=(15, 3))
     plt.plot(n, g(n))
     plt.annotate("$m/\ln{10}$", (m / np.log(10) - 2.8, g(m / np.log(10)) - 2.5))
     plt.scatter(m / np.log(10), g(m / np.log(10)))
