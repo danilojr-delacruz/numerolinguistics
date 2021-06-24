@@ -15,7 +15,7 @@ import argparse
 
 from argparse import RawTextHelpFormatter
 from numerolinguistics.analysis import Analyse
-from numerolinguistics.model import minimal_N
+from numerolinguistics.model import minimal_N, ulh
 
 
 def english10():
@@ -39,14 +39,20 @@ def english100():
     plt.savefig("figures/english100.png", format="PNG")
 
 
-def N_against_m():
-    m = np.linspace(1, 100)
-    N = minimal_N(m)
-    plt.figure(figsize=(5, 5))
-    plt.plot(m, N)
-    plt.xlabel("$m$")
-    plt.ylabel("Minimal $N$")
-    plt.savefig("figures/N_against_m.png", format="PNG")
+def g_plot():
+    m = 20
+    n = np.linspace(1, 60, 100)
+    def g(n):
+        return ulh(n, m) - n
+
+    plt.figure(figsize=(7.5, 3))
+    plt.plot(n, g(n))
+    plt.annotate("$m/\ln{10}$", (m / np.log(10) - 2.8, g(m / np.log(10)) - 2.5))
+    plt.scatter(m / np.log(10), g(m / np.log(10)))
+    plt.axhline(y=0, color='k')
+    plt.xlabel("$n$")
+    plt.ylabel("$g$")
+    plt.savefig("figures/g_plot.png", format="PNG")
 
 
 def N_estimate():
@@ -76,7 +82,7 @@ if __name__ == "__main__":
     parser.add_argument("figures", nargs="+")
     args = parser.parse_args()
 
-    figures = [english10, french10, english100, N_against_m, N_estimate]
+    figures = [english10, french10, english100, g_plot, N_estimate]
 
     if args.figures[0] == "a":
         to_generate = figures
