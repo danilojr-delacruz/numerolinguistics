@@ -35,19 +35,21 @@ def english_number(n):
         
         return num.strip()
 
-# Average letters per digit
 
-total_letters = 0
-total_digits = 0
-for i in range(1, 1000000):
-    total_letters += length(english_number(i))
-    total_digits += len(str(i))
+if __name__ == "__main__":
+    # Average letters per digit
 
-print(total_letters / total_digits)
+    total_letters = 0
+    total_digits = 0
+    for i in range(1, 1000000):
+        total_letters += length(english_number(i))
+        total_digits += len(str(i))
 
-# Number of letters in multiples of powers of 10.
+    print(total_letters / total_digits)
 
-num_list = [(10**i) * j for i in range(0, 6) for j in range(1, 10)]
+    # Number of letters in multiples of powers of 10.
 
-for num in num_list:
-    print(f"{num}: {length(english_number(num))}")
+    num_list = [(10**i) * j for i in range(0, 6) for j in range(1, 10)]
+
+    for num in num_list:
+        print(f"{num}: {length(english_number(num))}")
