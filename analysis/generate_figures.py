@@ -58,9 +58,9 @@ def g_plot():
 def N_estimate():
     m = np.linspace(1, 100)
     N = minimal_N(m)
-    a, b = np.polyfit(m, N, 1)
     plt.plot(m, N, label="Minimal N")
-    plt.plot(m, a*m + b, "--", label=f"$N = {a:.2f}m + {b:.2f}$")
+    # a, b = np.polyfit(m, N, 1)
+    # plt.plot(m, a*m + b, "--", label=f"$N = {a:.2f}m + {b:.2f}$")
     plt.plot(m, 4*m, "--", label=f"$N = 4m$")
     plt.xlabel("$m$")
     plt.ylabel("Minimal $N$")
