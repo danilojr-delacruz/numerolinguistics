@@ -7,7 +7,7 @@ import numpy as np
 from scipy.optimize import bisect
 
 
-def ul(n, m):
+def ulh(n, m):
     return m * (np.log10(n) + 1)
 
 
@@ -19,7 +19,7 @@ def minimal_N(m, upper=None):
         upper = 10 * m
 
     try:
-        N  = bisect(lambda n: ul(n, m) - n, lower, upper)
+        N  = bisect(lambda n: ulh(n, m) - n, lower, upper)
         return N
     except ValueError as error:
         print(error)
