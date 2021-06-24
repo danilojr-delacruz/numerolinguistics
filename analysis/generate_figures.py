@@ -14,8 +14,9 @@ import argparse
 
 
 from argparse import RawTextHelpFormatter
-from numerolinguistics.analysis import Analyse
-from numerolinguistics.model import minimal_N, ulh
+from numerolinguistics.analysis import Analyse, length
+from numerolinguistics.model import minimal_N, ul, ulh
+from numerolinguistics.number_generation import english_number
 
 
 def english10():
@@ -38,6 +39,21 @@ def english100():
     nx.draw(en.graph, with_labels=True, node_size=[300*d for d in en.degree.values()])
     plt.savefig("figures/english100.png", format="PNG")
 
+
+def eng_ul():
+    m = 10
+    n = np.arange(10**6)
+    lengths = [length(english_number(number)) for number in n]
+
+
+    plt.figure(figsize=(15, 5))
+    plt.semilogx(n, lengths, label="$f_{\mathrm{English}}$")
+    plt.semilogx(n, ul(n, m), label="$\mathrm{ul}$")
+    plt.semilogx(n, ulh(n, m), label="$\widehat{\mathrm{ul}}$")
+    plt.legend(loc="upper left")
+    plt.xlabel("Value")
+    plt.ylabel("Length")
+    plt.savefig("figures/eng_ul.png", format="PNG")
 
 def g_plot():
     m = 20
@@ -82,7 +98,7 @@ if __name__ == "__main__":
     parser.add_argument("figures", nargs="+")
     args = parser.parse_args()
 
-    figures = [english10, french10, english100, g_plot, N_estimate]
+    figures = [english10, french10, english100, eng_ul, g_plot, N_estimate]
 
     if args.figures[0] == "a":
         to_generate = figures
