@@ -41,7 +41,7 @@ def figure_3():
 
 def figure_4():
     m = np.linspace(1, 100)
-    N = np.vectorize(minimal_N)(m)
+    N = minimal_N(m)
     plt.figure(figsize=(5, 5))
     plt.plot(m, N)
     plt.xlabel("$m$")
@@ -49,7 +49,19 @@ def figure_4():
     plt.savefig("figures/N_against_m.png", format="PNG")
 
 
-# Add a clt interface to specify which figures to generate
+def figure_5():
+    m = np.linspace(1, 100)
+    N = minimal_N(m)
+    a, b = np.polyfit(m, N, 1)
+    plt.plot(m, N, label="Minimal N")
+    plt.plot(m, a*m + b, "--", label=f"$N = {a:.2f}m + {b:.2f}$")
+    plt.plot(m, 4*m, "--", label=f"$N = 4m$")
+    plt.xlabel("$m$")
+    plt.ylabel("Minimal $N$")
+    plt.legend(loc="upper left")
+    plt.savefig("figures/N_estimate.png", format="PNG")
+
+
 if __name__ == "__main__":
     description = """Generate figures.
 
@@ -65,7 +77,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     # TODO: Is there a better way to do this?
-    figures = [figure_1, figure_2, figure_3, figure_4]
+    figures = [figure_1, figure_2, figure_3, figure_4, figure_5]
 
     if args.figures[0] == "a":
         to_generate = figures
