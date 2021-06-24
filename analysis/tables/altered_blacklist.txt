@@ -1,11 +1,11 @@
 \begin{longtable}{|c|c|c|c|c|}
 \toprule
-      Blacklist & Highest Fixed Point & Maximum Cycle Length &  Most Fixed Points & Most Proper Cycles \\
+      Blacklist &            HFP &           MCL &                MFP &                MPC \\
 \midrule
 \endfirsthead
 
 \toprule
-      Blacklist & Highest Fixed Point & Maximum Cycle Length &  Most Fixed Points & Most Proper Cycles \\
+      Blacklist &            HFP &           MCL &                MFP &                MPC \\
 \midrule
 \endhead
 \midrule
@@ -15,36 +15,36 @@
 
 \bottomrule
 \endlastfoot
-             () &          (ndom, 34) &        (alamblak, 4) &         (ganda, 6) & (cuzco\_quechua, 3) \\
-           (H,) &          (huli, 36) &        (alamblak, 4) &         (ganda, 6) & (cuzco\_quechua, 3) \\
-           (S,) &       (nahuatl, 33) &          (french, 4) & (cuzco\_quechua, 6) &        (arabic, 2) \\
-           (A,) &          (ndom, 34) &        (alamblak, 4) &        (aymara, 5) &          (zulu, 3) \\
-           (B,) &          (ndom, 34) &        (alamblak, 4) &         (ganda, 6) & (cuzco\_quechua, 3) \\
-           (C,) &          (huli, 36) &        (alamblak, 4) &         (ganda, 6) & (cuzco\_quechua, 3) \\
-         (H, S) &      (alamblak, 28) &          (french, 4) &          (zulu, 6) &        (arabic, 2) \\
-         (H, A) &          (huli, 36) &        (alamblak, 4) &         (ganda, 5) & (cuzco\_quechua, 3) \\
-         (H, B) &          (huli, 36) &        (alamblak, 4) &         (ganda, 6) & (cuzco\_quechua, 3) \\
-         (H, C) &          (ndom, 34) &        (alamblak, 4) &         (ganda, 6) & (cuzco\_quechua, 3) \\
-         (S, A) &       (nahuatl, 33) &          (french, 4) &          (zulu, 6) &        (arabic, 2) \\
-         (S, B) &       (nahuatl, 33) &          (french, 4) & (cuzco\_quechua, 6) &        (arabic, 2) \\
-         (S, C) &       (nahuatl, 33) &          (french, 4) & (cuzco\_quechua, 6) &        (arabic, 2) \\
-         (A, B) &          (ndom, 34) &        (alamblak, 4) &        (aymara, 5) &          (zulu, 3) \\
-         (A, C) &          (huli, 36) &        (alamblak, 4) &        (aymara, 5) &          (zulu, 3) \\
-         (B, C) &          (huli, 36) &        (alamblak, 4) &         (ganda, 6) & (cuzco\_quechua, 3) \\
-      (H, S, A) &      (alamblak, 28) &          (french, 4) &          (zulu, 6) &        (arabic, 2) \\
-      (H, S, B) &      (alamblak, 28) &          (french, 4) &          (zulu, 6) &        (arabic, 2) \\
-      (H, S, C) &      (alamblak, 28) &          (french, 4) &          (zulu, 6) &        (arabic, 2) \\
-      (H, A, B) &          (huli, 36) &        (alamblak, 4) &         (ganda, 5) & (cuzco\_quechua, 3) \\
-      (H, A, C) &          (ndom, 34) &        (alamblak, 4) &         (ganda, 5) & (cuzco\_quechua, 3) \\
-      (H, B, C) &          (ndom, 34) &        (alamblak, 4) &         (ganda, 6) & (cuzco\_quechua, 3) \\
-      (S, A, B) &       (nahuatl, 33) &          (french, 4) &          (zulu, 6) &        (arabic, 2) \\
-      (S, A, C) &       (nahuatl, 33) &          (french, 4) &          (zulu, 6) &        (arabic, 2) \\
-      (S, B, C) &       (nahuatl, 33) &          (french, 4) & (cuzco\_quechua, 6) &        (arabic, 2) \\
-      (A, B, C) &          (huli, 36) &        (alamblak, 4) &        (aymara, 5) &          (zulu, 3) \\
-   (H, S, A, B) &      (alamblak, 28) &          (french, 4) &          (zulu, 6) &        (arabic, 2) \\
-   (H, S, A, C) &      (alamblak, 28) &          (french, 4) &          (zulu, 6) &        (arabic, 2) \\
-   (H, S, B, C) &      (alamblak, 28) &          (french, 4) &          (zulu, 6) &        (arabic, 2) \\
-   (H, A, B, C) &          (ndom, 34) &        (alamblak, 4) &         (ganda, 5) & (cuzco\_quechua, 3) \\
-   (S, A, B, C) &       (nahuatl, 33) &          (french, 4) &          (zulu, 6) &        (arabic, 2) \\
-(H, S, A, B, C) &      (alamblak, 28) &          (french, 4) &          (zulu, 6) &        (arabic, 2) \\
+             () &     (ndom, 34) & (alamblak, 4) &         (ganda, 6) & (cuzco\_quechua, 3) \\
+           (H,) &     (huli, 36) & (alamblak, 4) &         (ganda, 6) & (cuzco\_quechua, 3) \\
+           (S,) &  (nahuatl, 33) &   (french, 4) & (cuzco\_quechua, 6) &        (arabic, 2) \\
+           (A,) &     (ndom, 34) & (alamblak, 4) &        (aymara, 5) &          (zulu, 3) \\
+           (B,) &     (ndom, 34) & (alamblak, 4) &         (ganda, 6) & (cuzco\_quechua, 3) \\
+           (C,) &     (huli, 36) & (alamblak, 4) &         (ganda, 6) & (cuzco\_quechua, 3) \\
+         (H, S) & (alamblak, 28) &   (french, 4) &          (zulu, 6) &        (arabic, 2) \\
+         (H, A) &     (huli, 36) & (alamblak, 4) &         (ganda, 5) & (cuzco\_quechua, 3) \\
+         (H, B) &     (huli, 36) & (alamblak, 4) &         (ganda, 6) & (cuzco\_quechua, 3) \\
+         (H, C) &     (ndom, 34) & (alamblak, 4) &         (ganda, 6) & (cuzco\_quechua, 3) \\
+         (S, A) &  (nahuatl, 33) &   (french, 4) &          (zulu, 6) &        (arabic, 2) \\
+         (S, B) &  (nahuatl, 33) &   (french, 4) & (cuzco\_quechua, 6) &        (arabic, 2) \\
+         (S, C) &  (nahuatl, 33) &   (french, 4) & (cuzco\_quechua, 6) &        (arabic, 2) \\
+         (A, B) &     (ndom, 34) & (alamblak, 4) &        (aymara, 5) &          (zulu, 3) \\
+         (A, C) &     (huli, 36) & (alamblak, 4) &        (aymara, 5) &          (zulu, 3) \\
+         (B, C) &     (huli, 36) & (alamblak, 4) &         (ganda, 6) & (cuzco\_quechua, 3) \\
+      (H, S, A) & (alamblak, 28) &   (french, 4) &          (zulu, 6) &        (arabic, 2) \\
+      (H, S, B) & (alamblak, 28) &   (french, 4) &          (zulu, 6) &        (arabic, 2) \\
+      (H, S, C) & (alamblak, 28) &   (french, 4) &          (zulu, 6) &        (arabic, 2) \\
+      (H, A, B) &     (huli, 36) & (alamblak, 4) &         (ganda, 5) & (cuzco\_quechua, 3) \\
+      (H, A, C) &     (ndom, 34) & (alamblak, 4) &         (ganda, 5) & (cuzco\_quechua, 3) \\
+      (H, B, C) &     (ndom, 34) & (alamblak, 4) &         (ganda, 6) & (cuzco\_quechua, 3) \\
+      (S, A, B) &  (nahuatl, 33) &   (french, 4) &          (zulu, 6) &        (arabic, 2) \\
+      (S, A, C) &  (nahuatl, 33) &   (french, 4) &          (zulu, 6) &        (arabic, 2) \\
+      (S, B, C) &  (nahuatl, 33) &   (french, 4) & (cuzco\_quechua, 6) &        (arabic, 2) \\
+      (A, B, C) &     (huli, 36) & (alamblak, 4) &        (aymara, 5) &          (zulu, 3) \\
+   (H, S, A, B) & (alamblak, 28) &   (french, 4) &          (zulu, 6) &        (arabic, 2) \\
+   (H, S, A, C) & (alamblak, 28) &   (french, 4) &          (zulu, 6) &        (arabic, 2) \\
+   (H, S, B, C) & (alamblak, 28) &   (french, 4) &          (zulu, 6) &        (arabic, 2) \\
+   (H, A, B, C) &     (ndom, 34) & (alamblak, 4) &         (ganda, 5) & (cuzco\_quechua, 3) \\
+   (S, A, B, C) &  (nahuatl, 33) &   (french, 4) &          (zulu, 6) &        (arabic, 2) \\
+(H, S, A, B, C) & (alamblak, 28) &   (french, 4) &          (zulu, 6) &        (arabic, 2) \\
 \end{longtable}

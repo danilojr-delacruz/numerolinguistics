@@ -71,6 +71,7 @@ df = pd.DataFrame.from_dict(data)
 with open("tables/altered_blacklist.txt", "w") as f:
     f.write(df.to_latex(
         index=False,
+        header=["Blacklist", "HFP", "MCL", "MFP", "MPC"],
         longtable=True,
         column_format="|c|c|c|c|c|",
         escape=True
