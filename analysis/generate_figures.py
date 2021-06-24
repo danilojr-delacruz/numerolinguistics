@@ -35,8 +35,9 @@ def french10():
 
 def english100():
     en = Analyse("english", 100)
+    pos = nx.spring_layout(en.graph)
     plt.figure(figsize = (10, 10))
-    nx.draw(en.graph, with_labels=True, node_size=[300*d for d in en.degree.values()])
+    nx.draw(en.graph, pos, with_labels=True, node_size=[300*d for d in en.degree.values()])
     plt.savefig("figures/english100.png", format="PNG")
 
 
