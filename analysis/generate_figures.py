@@ -55,6 +55,7 @@ def eng_ul():
     plt.ylabel("Length")
     plt.savefig("figures/eng_ul.png", format="PNG")
 
+
 def g_plot():
     m = 20
     n = np.linspace(1, 60, 100)
