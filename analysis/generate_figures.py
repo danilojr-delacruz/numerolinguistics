@@ -18,28 +18,28 @@ from numerolinguistics.analysis import Analyse
 from numerolinguistics.model import minimal_N
 
 
-def figure_1():
+def english10():
     en = Analyse("english", 10)
     plt.figure(figsize = (5, 5))
     nx.draw(en.graph, with_labels=True, node_size=1000)
     plt.savefig("figures/english10.png", format="PNG")
 
 
-def figure_2():
+def french10():
     fr = Analyse("french", 10)
     plt.figure(figsize = (5, 5))
     nx.draw(fr.graph, with_labels=True, node_size=1000)
     plt.savefig("figures/french10.png", format="PNG")
 
 
-def figure_3():
+def english100():
     en = Analyse("english", 100)
     plt.figure(figsize = (10, 10))
     nx.draw(en.graph, with_labels=True, node_size=[300*d for d in en.degree.values()])
     plt.savefig("figures/english100.png", format="PNG")
 
 
-def figure_4():
+def N_against_m():
     m = np.linspace(1, 100)
     N = minimal_N(m)
     plt.figure(figsize=(5, 5))
@@ -49,7 +49,7 @@ def figure_4():
     plt.savefig("figures/N_against_m.png", format="PNG")
 
 
-def figure_5():
+def N_estimate():
     m = np.linspace(1, 100)
     N = minimal_N(m)
     a, b = np.polyfit(m, N, 1)
@@ -76,8 +76,7 @@ if __name__ == "__main__":
     parser.add_argument("figures", nargs="+")
     args = parser.parse_args()
 
-    # TODO: Is there a better way to do this?
-    figures = [figure_1, figure_2, figure_3, figure_4, figure_5]
+    figures = [english10, french10, english100, N_against_m, N_estimate]
 
     if args.figures[0] == "a":
         to_generate = figures
