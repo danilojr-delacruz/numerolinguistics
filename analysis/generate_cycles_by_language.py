@@ -28,7 +28,7 @@ df = pd.DataFrame.from_dict(data)
 
 
 # Will have to make headers bold manually
-with open("tables/results.txt", "w") as f:
+with open("tables/cycles_by_language.txt", "w") as f:
     f.write("\\begin{landscape}\n")
     f.write(df.to_latex(
         index=False,
