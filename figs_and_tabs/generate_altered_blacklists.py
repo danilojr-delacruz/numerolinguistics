@@ -68,7 +68,7 @@ df = pd.DataFrame.from_dict(data)
 
 
 # Will have to make headers bold manually
-with open("tables/altered_blacklist.txt", "w") as f:
+with open("tables/altered_blacklist.tex", "w") as f:
     f.write(df.to_latex(
         index=False,
         header=["Blacklist", "HFP", "MCL", "MFP", "MPC"],
